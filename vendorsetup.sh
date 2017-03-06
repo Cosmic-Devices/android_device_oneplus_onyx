@@ -1,3 +1,0 @@
-add_lunch_combo cos_onyx-user
-add_lunch_combo cos_onyx-userdebug
-add_lunch_combo cos_onyx-eng
