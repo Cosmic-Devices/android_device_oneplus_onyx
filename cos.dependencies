@@ -1,0 +1,31 @@
+[
+  {
+    "remote": "github",
+    "repository": "BirdSanctuary/device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch": "n7"
+  },
+  {
+    "remote": "github",
+    "repository": "CheckYourScreen/Arsenic.Kernel",
+    "target_path": "device/oppo/common",
+    "branch": "stable"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch": "cm-14.1"
+  }
+]
