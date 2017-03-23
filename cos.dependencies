@@ -8,7 +8,7 @@
   {
     "remote": "github",
     "repository": "CheckYourScreen/Arsenic.Kernel",
-    "target_path": "device/oppo/common",
+    "target_path": "kernel/oneplus/onyx",
     "branch": "stable"
   },
   {
