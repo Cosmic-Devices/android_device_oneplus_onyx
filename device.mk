@@ -235,5 +235,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     wcnss_service
 
+# Healthd packages
+PRODUCT_PACKAGES += \
+	charger_res_images
+
 # Inherit from oppo-common
 $(call inherit-product, device/oppo/common/common.mk)
