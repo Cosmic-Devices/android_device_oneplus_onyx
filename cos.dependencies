@@ -1,0 +1,38 @@
+[
+  {
+    "remote": "github",
+    "repository":  "ZerNico/device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch": "n7"
+  },
+  {
+    "remote": "github",
+    "repository": "CheckYourScreen/Arsenic.Kernel",
+    "target_path": "kernel/oneplus/onyx",
+    "branch": "stable"
+  },
+  {
+    "remote": "github",
+    "repository": "BigTopKrazies/vendor_oneplus-onyx",
+    "target_path": "vendor/oneplus",
+    "branch": "n7.1"
+  },
+  {
+    "remote": "github",
+    "repository": "SlimRoms/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch": "ng7.1"
+  },
+  { 
+    "remote": "github",
+    "repository": "Cosmic-Devices/platform_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "branch": "n-mr2"
+  },
+  { 
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  }
+]
